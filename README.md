@@ -33,3 +33,9 @@ The application provides weather information for a predefined list of capital ci
 Weather data is displayed in Celsius by default. You can change the units to Fahrenheit by modifying the units parameter in the get_weather_data function.
 
 In case of an error or if the specified city is not in the list of capital cities, an appropriate message will be displayed to the user.
+
+# License
+
+[MIT License](LICENSE)
+
+Feel free to customize the README file according to your specific project requirements and any additional information you would like to provide to users.
