@@ -4,7 +4,7 @@ from tkinter import messagebox
 import csv
 from datetime import datetime
 
-API_KEY = '-----'
+API_KEY = '---'
 
 # Dictionary of capital cities with their corresponding city names
 capital_cities = {
